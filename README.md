@@ -1,2 +1,2 @@
 # Automacao-Arduino
- Site de controle de arduino para automação simples, liguar e desligar energia de aparelhos, permite configuraçoes de  usuarios com diferentes aparelhos, automação de ligar ou desligar aaprelho, histórico de uso
+Site de controle de Arduino para automação simples, ligar e desligar energia de aparelhos, permite configurações de usuários com diferentes aparelhos, automação de ligar ou desligar aparelho, histórico de uso
