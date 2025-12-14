@@ -5,10 +5,6 @@
 
 > Projeto desenvolvido para a disciplina de Programação Orientada a Objetos (POO).
 
-![Language](https://img.shields.io/badge/Linguagem-C-orange)
-![Status do Projeto](https://img.shields.io/badge/Status-Concluído-green)
-![Tipo](https://img.shields.io/badge/Tipo-Acadêmico-blue)
-
 <div align="left">
   <img src="https://img.shields.io/badge/Status-Concluído-brightgreen" alt="Status">
   <img src="https://img.shields.io/badge/Linguagem-PHP-orange" alt="Linguagem">
