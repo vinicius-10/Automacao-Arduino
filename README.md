@@ -48,11 +48,6 @@ O sistema faz a ponte entre uma aplicação web e o microcontrolador Arduino, qu
 
 ---
 
-## 📷 Screenshots e Diagramas
-
-*(Se possível, coloque aqui um print da tela do site e uma foto da montagem do Arduino)*
-
----
 
 ## 🔧 Como Executar
 
@@ -70,7 +65,6 @@ O sistema faz a ponte entre uma aplicação web e o microcontrolador Arduino, qu
 
 ## ✒️ Autores
 
-* **[Seu Nome]** - *Desenvolvimento Full Stack & Hardware*
-* **[Nome do Colega]** - *Documentação e Testes*
+* **Vinicius Souza Dias** - *Desenvolvimento Full Stack & Hardware*
 
 ---
