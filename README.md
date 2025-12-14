@@ -11,6 +11,7 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Status-Concluído-brightgreen" alt="Status">
+  <img src="https://img.shields.io/badge/Linguagem-PHP-orange" alt="Linguagem">
   <img src="https://img.shields.io/badge/Hardware-Arduino-blue" alt="Hardware">
   <img src="https://img.shields.io/badge/Interface-Web-orange" alt="Web">
 </div>
