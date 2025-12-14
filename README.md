@@ -1,10 +1,6 @@
 # 🏠 Sistema de Automação Residencial com Arduino
 
 > Projeto desenvolvido na disciplina de Prática e Desenvolvimento de Sistemas (Curso Técnico).
-
-
-> Projeto desenvolvido para a disciplina de Programação Orientada a Objetos (POO).
-
 <div align="left">
   <img src="https://img.shields.io/badge/Status-Concluído-brightgreen" alt="Status">
   <img src="https://img.shields.io/badge/Linguagem-PHP-orange" alt="Linguagem">
