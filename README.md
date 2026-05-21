@@ -65,6 +65,9 @@ O sistema faz a ponte entre uma aplicação web e o microcontrolador Arduino, qu
 
 ## ✒️ Autores
 
-* **Vinicius Souza Dias** - *Desenvolvimento Full Stack & Hardware*
+* **Vinicius Souza Dias**
+* **Sther dos Reis**
+* **Fernanda Carvalho**
+* **Emily Meireless**
 
 ---
