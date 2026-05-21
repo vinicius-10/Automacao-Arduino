@@ -1,4 +1,4 @@
-# 🏠 Sistema de Automação Residencial com Arduino
+# 🏠SmartTech
 
 > Projeto desenvolvido na disciplina de Prática e Desenvolvimento de Sistemas (Curso Técnico).
 <div align="left">
